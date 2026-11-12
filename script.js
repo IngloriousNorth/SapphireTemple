@@ -171,7 +171,7 @@ const leisureImages = [
 		text : "This picture got slid because I forgot to type a 'highlord' suffix in the image filename. Pertinent to 'invisibility'."
 	},
 	{
-		src : "35_calidia_non_canon",
+		src : "35_calidia_non_canon.png",
 		attributes : ["GNK", "jailer", "frozen throne"],
 		text : "Non-canonized 'Ice Queen': 'His inability to stop<br>What once cursed the land<br>Was turning him insane<br>And his journey did begin'"
 	}
@@ -196,11 +196,13 @@ async function fetchAndReveal() {
     try {
         const res = await fetch("https://qrngproxy.vercel.app/api/proxy");
         const data = await res.json();
-        console.info(data);
+        console.info("[QRNG / proxy json]:" data);
         
         // data.qrn is parsed from hex directly into an integer
         const randomInt = parseInt(data.qrn, 16);
+        console.info("[QRNG / integer]:", randomInt)
         const selectedSlide = canon(randomInt);
+        console.info("[lesiureImages slide:]", selectedSlide)
         
         if (selectedSlide) {
             reveal(selectedSlide);
