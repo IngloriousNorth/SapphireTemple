@@ -183,7 +183,7 @@ const leisureImages = [
 	{
 		src : "37_poppy_fill_the_crown.png",
 		attributes : ["GNK", "resurrection", "white horseman", "jailer"],
-		text : "Recalling the 'Jailer': 'Poison the children<br>No Peace of Mind'<br><br>In 'Fill the Crown', Poppy strides near a mountain-range wearing white furs and escorts a White Horse following an Aleister Crowley lookalike, dressed in black. It is debatable whether this is canon of the Ice Queen."
+		text : "Recalling the 'Jailer': 'Poison the children<br>No Peace of Mind'<br><br>In 'Fill the Crown', Poppy strides near a mountain-range wearing white furs and escorts a White Horse following an Aleister Crowley lookalike, dressed in black. The stage is Set, by the artist entering and exiting a white pod with a chip in her arm."
 	}
 
 ];
