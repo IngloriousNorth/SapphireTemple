@@ -173,7 +173,7 @@ const leisureImages = [
 	{
 		src : "35_calidia_non_canon.png",
 		attributes : ["GNK", "jailer", "frozen throne"],
-		text : "Non-canonized 'Ice Queen': 'His inability to stop<br>What once cursed the land<br>Was turning him insane<br>And his journey did begin'"
+		text : "'Ice Queen' (non-canonized):<br>'His inability to stop<br>What once cursed the land<br>Was turning him insane<br>And his journey did begin'"
 	},
 	{
 		src : "36_voldemort.webp",
