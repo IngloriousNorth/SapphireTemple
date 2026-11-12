@@ -172,7 +172,7 @@ const leisureImages = [
 		text : "'Fill the crown, let them know we're fed<br>Fill the crown, let them know we're fed<br>Fill, fill, fill, fill, fi-fi-fi-fill<br><br>Poison the children<br>No peace of mind'.<br><br><br>The Stage is Set, with the Artist entering and exiting a white pod with a chip in her arm."
 	},
 	{
-		src : "38_frozen_throne_jailer",
+		src : "38_frozen_throne_jailer.webp",
 		attributes : ["GNK", "frozen throne", "lich king", "jailer"],
 		text : "The current Lich King's association w/ the Jailer (see diagram)."
 	},
