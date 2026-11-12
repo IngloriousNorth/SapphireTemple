@@ -206,7 +206,7 @@ async function fetchAndReveal() {
     try {
         const res = await fetch("https://qrngproxy.vercel.app/api/proxy");
         const data = await res.json();
-        console.info("[QRNG / proxy json]:" data);
+        console.info("[QRNG / proxy json]:", data);
         
         // data.qrn is parsed from hex directly into an integer
         const randomInt = parseInt(data.qrn, 16);
