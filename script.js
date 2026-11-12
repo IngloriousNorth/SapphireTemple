@@ -113,7 +113,7 @@ const leisureImages = [
 	{
 		src : "24_carlo_north.png",
 		attributes : ["GNK", "frostmourne"],
-		text : "An overhead picture got slid, but the shirt of this recently canonized Saint actually says North. (Whether the outfit is actually canonized by the GNK remains to be decided)."
+		text : "An overhead picture, where the text can clearly be seen, got slid on Google Images, but the shirt of this recently canonized Saint actually says North. (Whether the outfit is actually canonized by the GNK remains to be decided)."
 	},
 	{
 		src: "25_arthas_scourge.webp",
@@ -158,7 +158,7 @@ const leisureImages = [
 	{
 		src: "34_redacted.jpeg",
 		attributes : ["GNK", "lich king", "invisibility"],
-		text : "This picture got slid because I forgot to type a 'highlord' suffix in the image filename. Pertinent to 'invisibility'."
+		text : "This picture got slid."
 	},
 	{
 		src : "35_calidia_non_canon.png",
