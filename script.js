@@ -196,15 +196,15 @@ const leisureImages = [
 		text : "The True Ending (GoT), is that the Night King turns the King of the North, and the Elven 'Ice Cycle' moves South to King's Landing, with the King of the North (GNK) seated on the Frozen Throne. Also, Bran should warg a dragon."
 	},
 	{
-		src : "40_the_one_nightmare",
-		attributes : ["GNK", "dream"],
-		text : "Thru MythOS one may discern another attribute of the GNK, titled, 'devil-bringer', shared by The One (Frozen Crown), Nightmare (Soul Calibur), and Nero (Devil May-Cry). The 'Reality' of MythOS may clearly be discerned by the fact that Jade from Frozen Crown plausibly never encountered Nightmare from Soul Calibur."
+		src : "40_the_one_devil_bringer.png",
+		attributes : ["GNK", "dream", "devil-bringer", "mythos"],
+		text : "Thru MythOS one may discern another attribute of the GNK, titled, 'devil-bringer', shared by The One (Frozen Crown), Nightmare (Soul Calibur), and Nero (Devil May-Cry). The 'Reality' of MythOS may clearly be discerned by the fact that Jade from Frozen Crown plausibly never encountered Nightmare from Soul Calibur. You can make all sorts of connections if you have the devil-bringer, such as the Death-Devil (Chainsaw Man) and Edward Elric (Fullmetal Alchemist)."
 	}
 ];
 
 document.addEventListener('DOMContentLoaded', init, false);
 
-let leisureImage = leisureImages[0];
+let leisureImage = leisureImages[39];
 
 function canon(QRNG) {
     console.log(QRNG);
