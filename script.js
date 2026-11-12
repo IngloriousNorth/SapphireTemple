@@ -8,7 +8,7 @@ const leisureImages = [
 	{
 		src: "02_invisibles.png",
 		attributes : ["invisibility", "helm of domination", "dream", "jailer"],
-		text : "The Invisible Order of Rosicrucians, may be associated with the Jailer. Naturally, the Thoth Tarot Deck is banned, in prison."
+		text : "The Invisible Order of Rosicrucians, may be associated with the Jailer. Naturally, Aleister Crowley's Deck is banned, in prison."
 	},
     {
     	src : "03_simon_gs.png",
