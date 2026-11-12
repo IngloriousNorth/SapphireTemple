@@ -38,7 +38,7 @@ const leisureImages = [
 	{
 		src: "08_jon_snow_reborn.webp",
 		attributes : ["GNK", "resurrection"],
-		text : "Everyone knows, `Winter is Coming' -- paralleling the Scourge in Warcraft. But do you remember that Jon Snow is 'King of the North?'"
+		text : "Everyone knows, `Winter is Coming' -- paralleling the Scourge in Warcraft. But do you remember that Jon Snow is 'King of the North?' (The MythOS of the British Crown may be glimpsed in their trauma from being conquered by a French 'Bastard', William the Conqueror.)"
 	},
 	{
 		src : "09_arthas_menethil.jpg",
