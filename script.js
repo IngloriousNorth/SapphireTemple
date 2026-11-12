@@ -223,7 +223,7 @@ async function fetchAndReveal() {
 }
 
 async function init() {
-    reveal(leisureImages[0]);
+    fetchAndReveal();
     setInterval(fetchAndReveal, 6667);
 }
 
