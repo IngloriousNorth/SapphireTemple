@@ -197,7 +197,7 @@ async function fetchAndReveal() {
         console.info(data);
         
         // data.qrn is parsed from hex directly into an integer
-        const randomInt = parseInt(data.qrn);
+        const randomInt = parseInt(data.qrn, 16);
         const selectedSlide = canon(randomInt);
         
         if (selectedSlide) {
