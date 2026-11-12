@@ -194,6 +194,11 @@ const leisureImages = [
 		src: "39_elven_ice_time_cycle.webp",
 		attributes : ["GNK", "frozen throne", "resurrection", "lich king", "scourge", "dream"],
 		text : "The True Ending (GoT), is that the Night King turns the King of the North, and the Elven 'Ice Cycle' moves South to King's Landing, with the King of the North (GNK) seated on the Frozen Throne. Also, Bran should warg a dragon."
+	},
+	{
+		src : "40_the_one_nightmare",
+		attributes : ["GNK", "dream"],
+		text : "Thru MythOS one may discern another attribute of the GNK, titled, 'devil-bringer', shared by The One (Frozen Crown), Nightmare (Soul Calibur), and Nero (Devil May-Cry). The 'Reality' of MythOS may clearly be discerned by the fact that Jade from Frozen Crown plausibly never encountered Nightmare from Soul Calibur."
 	}
 ];
 
