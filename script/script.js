@@ -167,8 +167,8 @@ const leisureImages = [
 	},
 	{
 		src: "34_redacted.jpeg",
-		attributes ["GNK", "lich king", "invisibility"],
-		text : "This picture got slid because I forgot to type the 'highlord' suffix. Pertinent to 'invisibility'."
+		attributes : ["GNK", "lich king", "invisibility"],
+		text : "This picture got slid because I forgot to type a 'highlord' suffix in the image filename. Pertinent to 'invisibility'."
 	},
 	{
 
