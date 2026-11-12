@@ -178,7 +178,7 @@ const leisureImages = [
 	{
 		src : "36_voldemort.webp",
 		attributes : ["GNK", "resurrection", "frozen throne"],
-		text : "There is no dissimilarity between (((((Voldemort))))) and Highlord Bolvar Fordragon and, it will be noted the Night King. Yet, 'Voldemort', some magical evil aiming for purity of blood, may not be canon. (N.B. Arya assassinates the Night King.)"
+		text : "There is no dissimilarity between (((((Voldemort))))) and Highlord Bolvar Fordragon and, it will be noted the Night King. Yet, 'Voldemort', some magical evil aiming for purity of blood, may not be canon. (N.B. Arya assassinates the Night King, what may not be canon!)"
 	},
 	{
 		src : "37_poppy_fill_the_crown.png",
