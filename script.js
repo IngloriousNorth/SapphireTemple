@@ -199,6 +199,11 @@ const leisureImages = [
 		src : "40_the_one_devil_bringer.png",
 		attributes : ["GNK", "dream", "devil-bringer", "mythos"],
 		text : "Thru MythOS one may discern another attribute of the GNK, titled, 'devil-bringer', shared by The One (Frozen Crown), Nightmare (Soul Calibur), and Nero (Devil May-Cry). The 'Reality' of MythOS may clearly be discerned by the fact that Jade from Frozen Crown plausibly never encountered Nightmare from Soul Calibur. You can make all sorts of connections if you have the devil-bringer, such as the Death-Devil (Chainsaw Man) and Edward Elric (Fullmetal Alchemist)."
+	},
+	{
+		src : "41_nero_kyrie.jpg",
+		attributes : ["frostmourne", "dream", "devil-bringer", "mythos"],
+		text : "Here is Nero (Devil May-Cry 5) wielding Soul Edge with the devil-bringer, which he got from protecting 'Kyrie'."
 	}
 ];
 
