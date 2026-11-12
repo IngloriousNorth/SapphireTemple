@@ -171,7 +171,9 @@ const leisureImages = [
 		text : "This picture got slid because I forgot to type a 'highlord' suffix in the image filename. Pertinent to 'invisibility'."
 	},
 	{
-
+		src : "35_calidia_non_canon",
+		attributes : ["GNK", "jailer", "frozen throne"],
+		text : "Non-canonized 'Ice Queen': 'His inability to stop<br>What once cursed the land<br>Was turning him insane<br>And his journey did begin'"
 	}
 
 ];
