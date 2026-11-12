@@ -183,7 +183,7 @@ const leisureImages = [
 	{
 		src : "37_poppy_fill_the_crown.png",
 		attributes : ["GNK", "resurrection", "white horseman", "jailer"],
-		text : "Recalling the 'Jailer': 'Poison the children<br>No Peace of Mind'<br><br>In 'Fill the Crown', Poppy strides near a mountain-range wearing white furs and escorts a White Horse following an Aleister Crowley lookalike, dressed in black. The stage is Set, by the artist entering and exiting a white pod with a chip in her arm."
+		text : "'Fill the crown, let them know we're fed<br>Fill the crown, let them know we're fed<br>Fill, fill, fill, fill, fi-fi-fi-fill<br><br>Poison the children<br>No peace of mind'. The Stage is Set, by the artist entering and exiting a white pod with a chip in her arm."
 	}
 
 ];
