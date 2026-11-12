@@ -153,7 +153,7 @@ const leisureImages = [
 	{
 		src : "31_highlord_bolvar_fordragon_lich_king.jpg",
 		attributes : ["GNK", "lich king", "helm of domination", "invisibility"],
-		text : "The current Lich King (WoW)."
+		text : "The current Lich King (on eBay)."
 	},
 	{
 		src : "32_immolation_majesty_and_decay.jpg",
@@ -190,7 +190,6 @@ const leisureImages = [
 		attributes : ["GNK", "frozen throne", "lich king", "jailer"],
 		text : "The current Lich King's association w/ the Jailer (see diagram)."
 	}
-
 ];
 
 document.addEventListener('DOMContentLoaded', init, false);
