@@ -200,8 +200,6 @@ const leisureImages = [
 
 document.addEventListener('DOMContentLoaded', init, false);
 
-let leisureImage = leisureImages[39];
-
 function canon(QRNG) {
     console.log(QRNG);
     const candidateArr = leisureImages.filter(e =>
@@ -234,7 +232,7 @@ async function fetchAndReveal() {
 
 async function init() {
     //fetchAndReveal();
-    reveal(leisureImage);
+    fetchAndReveal();
     setInterval(fetchAndReveal, 6667);
 }
 
