@@ -204,6 +204,11 @@ const leisureImages = [
 		src : "41_nero_kyrie.jpg",
 		attributes : ["frostmourne", "dream", "devil-bringer", "mythos"],
 		text : "Here is Nero (Devil May-Cry 5) wielding Soul Edge with the devil-bringer, which he got from protecting 'Kyrie'."
+	},
+	{
+		src : "42_redacted_2x.png",
+		attributes : ["invisibility"],
+		text : "This website uses the Header font, 'Redacted 50'."
 	}
 ];
 
