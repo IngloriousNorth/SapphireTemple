@@ -43,7 +43,7 @@ const leisureImages = [
 	{
 		src : "10_henry.png",
 		attributes : ["GNK", "frozen throne", "resurrection", "jailer"],
-		text : "The last French monarch was predicted to restore monarchy and become Holy Roman Emperor, but the prophecies said he must first be 'Resurrected.' Earlier French monarchs thought they were the Great Catholic Monarch, and the consequence is known as the Templar Curse on the Merovingians."
+		text : "The last French monarch was 'prophesied' to restore monarchy and become Holy Roman Emperor, but the prophecies said he must first be 'Resurrected.' Earlier French monarchs thought they were the Great Catholic Monarch, and the consequence is known as the Templar Curse on the Merovingians."
 	},
 	{
 		src: "11_tolkien_return.jpg",
