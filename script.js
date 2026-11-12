@@ -11,11 +11,6 @@ const leisureImages = [
 		text : "The Invisible Order of Rosicrucians, may be associated with the Jailer. Naturally, Aleister Crowley's Deck is banned, in prison."
 	},
     {
-    	src : "03_simon_gs.png",
-    	attributes : ["simon", "nobody", "mythos", "jailer"],
-    	text : "Simon is the mythological 'main person who is gangstalked' and is sometimes associated with the Nobody General (NG)."
-    },
-    {
     	src : "04_simon_adventure_time.webp",
     	attributes : ["simon", "GNK", "mythos", "helm of domination"],
     	text : "Note the former name of the Ice King is 'Simon'. He was a scholar who found the 'Ice Crown', and went mad."
