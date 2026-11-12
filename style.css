@@ -1,0 +1,28 @@
+img{
+	width:333px;
+}
+
+.theatre{
+	border:5px solid black;
+	text-align:center;
+	padding:40px;
+	margin-top:120px;
+	width:333px;
+	margin:0 auto;
+	background:silver;
+}
+
+body{
+	background:darkcyan;
+}
+
+h1{
+	font-size:33px;
+	font-family:"Titillium Web", sans-serif;
+	color:cyan;
+	text-decoration:underline !important;
+}
+
+.theatre p{
+	font-family:"Agrave Pro", sans-serif;
+}
