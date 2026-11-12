@@ -18,11 +18,19 @@ body{
 
 h1{
 	font-size:33px;
-	font-family:"Titillium Web", sans-serif;
+	font-family:"Redaction 50", sans-serif;
 	color:cyan;
+	text-align:center;
 	text-decoration:underline !important;
 }
 
 .theatre p{
 	font-family:"Agrave Pro", sans-serif;
+}
+
+audio{
+	margin:0 auto;
+	text-align:center;
+	display:block;
+
 }
