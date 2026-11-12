@@ -33,7 +33,7 @@ const leisureImages = [
     {
 		src : "07_frozen_crown.jpg",
 		attributes : ["GNK", "helm of domination", "ice queen", "mythos"],
-		text : "Jade knows about the Crown, as you can see in this image. This is the general Archetype of 'Ice Queen', or, 'Imaginary Princess'."
+		text : "Jade knows about the Crown, as you can see in this image. This is the General Archetype of 'Ice Queen', or, 'Imaginary Princess'."
     },
 	{
 		src: "08_jon_snow_reborn.webp",
@@ -174,6 +174,16 @@ const leisureImages = [
 		src : "35_calidia_non_canon.png",
 		attributes : ["GNK", "jailer", "frozen throne"],
 		text : "Non-canonized 'Ice Queen': 'His inability to stop<br>What once cursed the land<br>Was turning him insane<br>And his journey did begin'"
+	},
+	{
+		src : "36_voldemort.webp",
+		attributes : ["GNK", "resurrection", "frozen throne"],
+		text : "There is no dissimilarity between (((((Voldemort))))) and Highlord Bolvar Fordragon and, it will be noted the Night King. But Harry Potter is an anti-Merovingian Operation of the British Crown, so 'Voldemort', some evil aiming for purity of blood, may not be canon."
+	},
+	{
+		src : "37_poppy_fill_the_crown.png",
+		attributes : ["GNK", "resurrection", "white horseman", "jailer"],
+		text : "Recalling the 'Jailer': 'Poison the children<br>No Peace of Mind'<br><br>In 'Fill the Crown', Poppy strides near a mountain-range wearing white furs and escorts a White Horse following an Aleister Crowley lookalike, dressed in black. It is debatable whether this is canon of the Ice Queen."
 	}
 
 ];
