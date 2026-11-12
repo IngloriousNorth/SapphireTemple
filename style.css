@@ -28,9 +28,7 @@ h1{
 	font-family:"Agrave Pro", sans-serif;
 }
 
-audio{
-	margin:0 auto;
-	text-align:center;
+iframe{
 	display:block;
-
+	margin: 0 auto;
 }
