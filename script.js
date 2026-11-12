@@ -136,11 +136,6 @@ const leisureImages = [
 		text : "Quintessential Ice Queen, singing 'Summertime Sadness', i.e., Winter is Coming: She is indeed dressed like Scourge."
 	},
 	{
-		src : "29_lich_king.png",
-		attributes : ["scourge", "lich king"],
-		text : "This particular blog tells of a Catholic GNK who will be assisted by the Departed Souls of Lost Kings."
-	},
-	{
 		src : "30_arthur_pendragon.jpg",
 		attributes : ["GNK", "invisibility"],
 		text : "The linguistic connection between Bolvar Fordragon and Arthur Pendragon is that 'Fordragon' is an intentional play on 'Pendragon,' the legendary surname of King Arthur and his father, Uther Pendragon"

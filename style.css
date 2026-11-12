@@ -1,5 +1,5 @@
 img{
-	width:267px;
+	width:660px;
 }
 
 .theatre{
@@ -7,7 +7,7 @@ img{
 	text-align:center;
 	padding:40px;
 	margin-top:120px;
-	width:333px;
+	width:777px;
 	margin:0 auto;
 	background:silver;
 }
@@ -31,4 +31,6 @@ h1{
 iframe{
 	display:block;
 	margin: 0 auto;
+	text-align:center;
+	width:777px;
 }
