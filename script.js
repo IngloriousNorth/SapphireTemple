@@ -189,6 +189,11 @@ const leisureImages = [
 		src : "38_frozen_throne_jailer",
 		attributes : ["GNK", "frozen throne", "lich king", "jailer"],
 		text : "The current Lich King's association w/ the Jailer (see diagram)."
+	},
+	{
+		src: "39_elven_ice_time_cycle.webp",
+		attributes : ["GNK", "frozen throne", "resurrection", "lich king", "jailer", "invisibility", "mythos", "dream"],
+		text : "The True Ending, of GoT, is that the Night King turns the King of the North, and the Elven 'Ice Cycle' moves south to King's Landing, with the GNK seated on the Frozen Throne."
 	}
 ];
 
