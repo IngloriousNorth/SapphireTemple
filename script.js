@@ -58,7 +58,7 @@ const leisureImages = [
 	{
 		src : "13_ice_king.webp",
 		attributes : ["GNK", "frozen throne", "helm of domination"]		,
-		text : "I'll just take this moment to say that Frostmourne has the power to 'canonize,' i.e., make a fragment of mythos canon or non-canon."
+		text : "I'll just take this moment to say that Frostmourne has the power to 'canonize,' i.e., make a fragment of mythos canon or non-canon. N.B. Ice King doesn't have Frostmourne, but rather some sort of Spear, in this image."
 	},
 	{
 		src : "14_gnk_return.png",
